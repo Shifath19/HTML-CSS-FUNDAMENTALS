@@ -1,0 +1,38 @@
+    .container{
+            height: 100%;
+            display: grid;
+            grid-template-columns: [main-start] 1fr [content-start] 5fr [content-end main-end];
+            grid-template-rows: [main-start] 40px [content-start] auto [content-end] 40px [main-end];
+            grid-gap: 3px;
+           
+        }
+
+        body{
+            color: white;
+          
+
+        }
+
+        .header{
+            background-color: lightseagreen;
+            grid-coloum: main;
+           
+        }
+
+        .menu{
+            background-color: lightblue;
+            grid-row: main;
+            
+        }
+
+        .content{
+            background-color: pink;
+            grid-column: content;  
+        }
+
+        .footer{
+            background-color: blueviolet;
+            grid-column: main;
+          
+        }
+
