@@ -1,6 +1,6 @@
 **Image Slider**
 
-This repository contains a simple, responsive image slider built with HTML, CSS, and JavaScript. The slider automatically cycles through images and allows manual navigation through "previous" and "next" buttons.
+This repository contains a simple, responsive image slider built with HTML, CSS, and JavaScript. The slider automatically cycles through images and allows manual navigation through "previous" and "next" buttons.The design is responsive to adapt to mobile view
 
 Features
 
